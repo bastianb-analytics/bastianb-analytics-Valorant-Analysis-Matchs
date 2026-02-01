@@ -44,7 +44,8 @@ map-level performance and model interpretability.
 
 ### Opponent-based loss patterns (advanced analysis)
 
-![Maps lost by opponent](https://github.com/user-attachments/assets/890e405a-8719-4454-af3a-da45de6aa882)
+![Maps lost by opponent](<img width="1011" height="2790" alt="Team vs opponent counts" src="https://github.com/user-attachments/assets/79847784-164f-4eb1-a464-d50e433d8d46" />)
+
 
 This visualization compares map losses by opponent for high-winrate teams.
 It highlights potential counter-play styles and matchup dependencies,
@@ -57,7 +58,8 @@ and serves as a deeper exploratory analysis rather than a headline result.
 
   ### Model performance (ROC curve)
 
-![Random Forest ROC Curve](https://github.com/user-attachments/assets/7c0b7556-79af-4f88-adf2-783b5f4fa8c2)
+![Random Forest ROC Curve](<img width="547" height="435" alt="random forest" src="https://github.com/user-attachments/assets/27371532-eba3-42fd-a477-5e4d64923ab7" />)
+
 
 
 The ROC curve evaluates the discriminative ability of the Random Forest model
@@ -67,7 +69,8 @@ indicating good separation between wins and losses across different thresholds.
 
   ### Feature importance (Random Forest)
 
-![Top 20 feature importances](https://github.com/user-attachments/assets/10647b52-68a8-44bb-8f88-9448ff362f0b)
+![Top 20 feature importances](<img width="1189" height="590" alt="variable importance" src="https://github.com/user-attachments/assets/859359c9-9ba4-4bc9-81aa-7fbd6408eb64" />)
+
 
 
 This visualization shows the top 20 most important features used by the
