@@ -1,4 +1,4 @@
-# bastianb-analytics-Valorant-Analysis-Matchs
+# Valorant-Analysis-Matchs
 We will analyze player statistics, such as maps played, and complete missing information in order to build a standard predictive model
 
 # Valorant Competitive Analysis: Map-Level Performance and Match Outcome Prediction
